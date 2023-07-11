@@ -1,0 +1,240 @@
+* {
+    margin: 0px;
+
+}
+
+/* common style */
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.section-text {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+
+    margin: 24px auto 48px auto;
+
+}
+
+/* header related styles */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+
+
+}
+
+.banner {
+    padding: 50px 200px 0px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.banner .banner-img {
+    width: 45%;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 80px;
+
+
+
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    max-width: 710px;
+
+}
+
+
+
+.banner-content {
+    max-width: 708px;
+
+}
+
+.banner-text {
+    margin: 32px 0px;
+}
+
+
+
+/* button related styles */
+.btn-primary {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: 0px;
+
+
+}
+
+.center-btn {
+    margin-left: 200px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: 0px;
+
+
+}
+
+/* featured section styles */
+.featured {
+    margin-top: 90px;
+}
+
+
+.featured-image{
+
+    margin: 0 10px;
+    display: flex;
+    width: 446px;
+    height:350px;
+    margin: 48px 240px;
+
+
+}
+
+.feed1{
+   
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
+.feed2{
+ 
+    background-color: rgba(5, 151, 160, 0.15);    
+    border-radius: 300px 300px 0px 0px;
+}
+.feed3{
+ 
+    background-color: rgba(71, 125, 17, 0.15);   
+    border-radius: 300px 300px 0px 0px;
+}
+
+
+
+
+.hotdeal {
+    display: flex;
+    padding: 100px 200px;
+    background-color: border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    ;
+
+}
+
+.hotdeal-content {
+
+    margin-top: 80px;
+}
+
+.instagram {
+    margin-top: 128px;
+    
+
+
+}
+
+
+.feed-image {
+    display: flex;
+    width: 342px;
+    height:270px;
+    margin: 48px 150px;
+
+
+}
+
+.feed {
+    margin: 0 10px;
+    
+
+}
+
+
+.latest-deals {
+    margin: 0px 240px;
+    background: url("/images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 122px 0px;
+    
+}
+
+.FlowerShop{
+    background-color: #111010;
+
+    padding: 128px 40px;
+    margin-top: 128px;
+}
+
+.footer-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.footer-text{
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    color: #fff;
+    margin: 24px auto 24px auto;
+
+}
+
+.footer-small{
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    color: #fff;
+    margin:auto;
+
+}
+
+
+
+
